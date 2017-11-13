@@ -16,12 +16,12 @@ These instructions will get you a copy of this project from 3D models to softwar
 
 ### Installing
 
-Servo V+ connected to 5V
-Servo data wire connected to D8
-Transistor collector connected to Servo ground
-Transistor base connected via 100R to D2
-Transistor emitter connected to Ground
-Switch connected to D3 and Ground
+-Servo V+ connected to 5V
+-Servo data wire connected to D8
+-Transistor collector connected to Servo ground
+-Transistor base connected via 100R to D2
+-Transistor emitter connected to Ground
+-Switch connected to D3 and Ground
 
 ## Authors
 
