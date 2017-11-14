@@ -1,4 +1,4 @@
-# Compact Useless Box W
+# Compact Useless Box 3D printed with Arduino
 
 It's a compact Useless box based on Arduino via 3D printing
 
